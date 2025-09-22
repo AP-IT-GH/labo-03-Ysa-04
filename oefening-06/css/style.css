@@ -8,17 +8,53 @@ h1 {
     padding: 10px;
 }
 p {
-    color: white
+    color: white;
+    margin: 0; 
+    padding: 5px 10px;
 }
+
 #p14 {
-    background-color:rgb(0, 78, 223);
+    background-color: rgb(0, 78, 223);
 }
 #p13 {
-    background-color:rgb(50, 78, 223);
+    background-color: rgb(50, 78, 223);
 }
 #p12 {
-    background-color:rgb(80,78,223);
+    background-color: rgb(80, 78, 223);
 }
-#p12 {
-    background-color:rgb( 119, 223);
+#p11 {
+    background-color: rgb(110, 130, 230);
+}
+#p10 {
+    background-color: rgb(140, 160, 240);
+}
+#p9 {
+    background-color: rgb(170, 190, 250);
+}
+#p8 {
+    background-color: rgb(200, 220, 255);
+}
+#p7 {
+    background-color: rgb(22, 143, 85); 
+}
+#p6 {
+    background-color: rgb(255, 180, 200);
+}
+#p5 {
+    background-color: rgb(255, 150, 180);
+}
+#p4 {
+    background-color: rgb(255, 120, 160);
+}
+#p3 {
+    background-color: rgb(255, 90, 140);
+}
+#p2 {
+    background-color: rgb(255, 60, 120);
+}
+#p1 {
+    background-color: rgb(255, 30, 100);
+}
+#p0 {
+    background-color: rgb(255, 0, 80);
 }
