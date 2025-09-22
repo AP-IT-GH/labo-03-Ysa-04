@@ -1,0 +1,19 @@
+body {
+    background-color: grey;
+}
+h1 {
+    font-weight: bolder;
+    background-color: turquoise;
+    color: white;
+    padding: 15px;
+}
+h2 {
+    font-weight: bold;
+    background-color: fuchsia;
+    color:white;
+    padding: 15px;
+}
+p {
+    background-color: white;
+    padding: 15px;
+}
