@@ -1,0 +1,19 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(25, 185, 203);
+    font-weight: bold;
+}
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+}
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+#first-line {
+    font-weight: bold;
+}
+#second-word {
+    color: aqua;
+}
